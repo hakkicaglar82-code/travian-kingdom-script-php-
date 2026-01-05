@@ -340,3 +340,9 @@ If you found bug please use [Issues](https://github.com/phoomin2012/travian-king
 Use **watch** button if you want to know about activities.<br>
 If you **like** this project, please give **star**.<br>
 ***THANKS***
+
+
+my install script :( error screen
+
+<img width="2557" height="1491" alt="Ekran görüntüsü 2026-01-05 191657" src="https://github.com/user-attachments/assets/3f4c6533-300f-4843-8457-60fab50615c9" />
+
